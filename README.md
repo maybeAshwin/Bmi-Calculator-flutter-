@@ -28,7 +28,7 @@ This app helps users calculate their BMI based on **height**, **weight**, **age*
 ## 📸 Screenshots
 | Input Screen | Result Screen |
 |---------------|---------------|
-| ![Input](photo_2025-10-22_11-41-51.jpg) | ![Result](photo_2025-10-22_11-41-53.jpg) |
+| ![Input](Bmi input.jpg)  | ![Result](bmi result.jpg) |
 
 ---
 
